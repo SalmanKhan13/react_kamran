@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('fontawesome-webfont.eot?v=4.7.0');
+  src: url('fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), 
+       url('fontawesome-webfont.woff2?v=4.7.0') format('woff2'),
+       url('fontawesome-webfont.woff?v=4.7.0') format('woff'), 
+       url('fontawesome-webfont.ttf?v=4.7.0') format('truetype'), 
+       url('fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: 'robotocondensed_bold';
+  src: url('robotocondensed_bold.eot');
+  src: url('robotocondensed_bold.eot') format('embedded-opentype'),
+    url('robotocondensed_bold.woff2') format('woff2'),
+    url('robotocondensed_bold.woff') format('woff'),
+    url('robotocondensed_bold.ttf') format('truetype'),
+    url('robotocondensed_bold.svg#robotocondensed_bold') format('svg');
+}
+
+@font-face {
+  font-family: 'robotocondensed_bolditalic';
+  src: url('robotocondensed_bolditalic.eot');
+  src: url('robotocondensed_bolditalic.eot') format('embedded-opentype'),
+    url('robotocondensed_bolditalic.woff2') format('woff2'),
+    url('robotocondensed_bolditalic.woff') format('woff'),
+    url('robotocondensed_bolditalic.ttf') format('truetype'),
+    url('robotocondensed_bolditalic.svg#robotocondensed_bolditalic') format('svg');
+}
+
+@font-face {
+  font-family: 'robotocondensed_italic';
+  src: url('robotocondensed_italic.eot');
+  src: url('robotocondensed_italic.eot') format('embedded-opentype'),
+    url('robotocondensed_italic.woff2') format('woff2'),
+    url('robotocondensed_italic.woff') format('woff'),
+    url('robotocondensed_italic.ttf') format('truetype'),
+    url('robotocondensed_italic.svg#robotocondensed_italic') format('svg');
+}
+
+@font-face {
+  font-family: 'robotocondensed_light';
+  src: url('robotocondensed_light.eot');
+  src: url('robotocondensed_light.eot') format('embedded-opentype'),
+    url('robotocondensed_light.woff2') format('woff2'),
+    url('robotocondensed_light.woff') format('woff'),
+    url('robotocondensed_light.ttf') format('truetype'),
+    url('robotocondensed_light.svg#robotocondensed_light') format('svg');
+}
+
+@font-face {
+  font-family: 'robotocondensed_lightitalic';
+  src: url('robotocondensed_lightitalic.eot');
+  src: url('robotocondensed_lightitalic.eot') format('embedded-opentype'),
+    url('robotocondensed_lightitalic.woff2') format('woff2'),
+    url('robotocondensed_lightitalic.woff') format('woff'),
+    url('robotocondensed_lightitalic.ttf') format('truetype'),
+    url('robotocondensed_lightitalic.svg#robotocondensed_lightitalic') format('svg');
+}
+
+@font-face {
+  font-family: 'robotocondensed_regular';
+  src: url('robotocondensed_regular.eot');
+  src: url('robotocondensed_regular.eot') format('embedded-opentype'),
+    url('robotocondensed_regular.woff2') format('woff2'),
+    url('robotocondensed_regular.woff') format('woff'),
+    url('robotocondensed_regular.ttf') format('truetype'),
+    url('robotocondensed_regular.svg#robotocondensed_regular') format('svg');
+} */
